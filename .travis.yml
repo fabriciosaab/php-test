@@ -24,4 +24,7 @@ after_success:
   - bash <(curl -s https://codecov.io/bash)
 
 notifications:
-  email: dev@livecommerce.com.br
+  email: f.fabriciosaab@gmail.com
+
+codecov:
+  token: dad2b601-3ad3-4657-852b-df1199c9b536
